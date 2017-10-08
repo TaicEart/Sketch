@@ -13,6 +13,7 @@
 * Futur-icns：apk ass Audio cdr Compressed cue mkv srt Text Video webm
 * Futur-ico：7z apk ass Audio cdr Compressed css csv cue eps js json mkv rar reg srt svg Text Video webm xml zip
 * Futur-ico-Audio：aac alac ape flac m4a mp3 ogg tta wav
+
 2017年10月8日 更新如下：
 * Futur-ico-sai2：sai sai2
 * FuturPlayer.ico
